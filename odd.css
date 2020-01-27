@@ -1,0 +1,26 @@
+h1{color: blueviolet;
+    background-color: aqua;
+    border-color: blueviolet ;
+    border-style: dashed;
+    padding: 10px; text-align: center; font-family: cursive
+
+}
+
+body{
+    background-color: black;
+    text-align: center
+    
+}
+h2{
+    color: blueviolet;
+    font-family: cursive;
+    
+
+}
+p{
+    color: blueviolet;
+    font-family: cursive
+    
+}
+div { text-align: center; }
+ul { display: inline-block; text-align: center; }
